@@ -200,6 +200,7 @@ nav a:link {
   display: block; */
 
   margin-right: 30px;
+  margin-top: 10px;
   display: inline-block;
 }
 
@@ -269,7 +270,7 @@ nav p {
 
 
 /* floats */
-/*
+
 
 
 
@@ -290,14 +291,15 @@ nav {
 
 article {
   float: left;
-  width: 72%;
+  width: 75%;
 
 }
 
 
+
 aside {
   float: right;
-  width: 25%;
+  width: 20%;
   box-sizing: border-box;
 }
 
@@ -324,14 +326,6 @@ footer {
   margin-top: 10px;
   margin-left: 20px;
 }
-
-*/
-.main-header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
 .author-box {
   display: flex;
   align-items: center;
